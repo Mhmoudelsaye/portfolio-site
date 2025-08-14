@@ -503,7 +503,7 @@ section .container {
 }
 
 about-me a {
-font-color:cyan;
+color:cyan;
 }
 
 
@@ -763,10 +763,9 @@ padding-left:10px;
 .education .education-item h5 {
     font-size: 16px;
     font-family:sans-serif;
-    color: #002c6c;
+    color: #18d26e;
     padding: 5px 15px;
     display: inline-block;
-    float:right;
     font-weight: 600;
     margin-bottom: 10px;
 }
